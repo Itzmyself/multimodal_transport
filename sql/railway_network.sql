@@ -1,0 +1,3 @@
+SELECT *
+FROM lines
+WHERE railway IS NOT NULL
