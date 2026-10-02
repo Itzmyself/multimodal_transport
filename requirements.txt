@@ -10,3 +10,9 @@ matplotlib
 jupyter
 scikit-learn
 pyspark
+streamlit
+folium
+streamlit-folium
+geopy
+joblib
+scipy
